@@ -35,7 +35,7 @@ from pyromod import listen
 from Python_ARQ import ARQ
 from telegraph import Telegraph
 
-Import keep_alive keep_alive.keep_alive()
+import keep_alive keep_alive.keep_alive()
 
 from sample_config import *
 
