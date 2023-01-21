@@ -35,6 +35,8 @@ from pyromod import listen
 from Python_ARQ import ARQ
 from telegraph import Telegraph
 
+Keep_alive.keep_alive()
+
 from sample_config import *
 
 GBAN_LOG_GROUP_ID = GBAN_LOG_GROUP_ID
